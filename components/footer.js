@@ -109,7 +109,7 @@ export default function Footer() {
         </div>
       </div>
       <p className='text-white font-light italic text-base pt-3'>
-        Proudly created from my college library.
+        Proudly created from my college library ;)
       </p>
     </div>
   )

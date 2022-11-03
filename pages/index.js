@@ -19,13 +19,13 @@ export default function Home() {
         <meta
           property='og:description'
           content="A personal portfolio website for Harsh Muriki. 
-            Comuter Science student at Georgia Tech who is passionate about Robotics in CS.
+            Computer Science student at Georgia Tech who is passionate about Robotics in CS.
           "
         />
         <meta
           name='description'
           content="A personal portfolio website for Harsh Muriki. 
-            Comuter Science student at Georgia Tech who is passionate about Robotics in CS.
+            Computer Science student at Georgia Tech who is passionate about Robotics in CS.
           "
         />
         <meta property='og:title' content='Harsh Muriki | harshmuriki.com' key='title' />
@@ -43,7 +43,7 @@ export default function Home() {
         <meta
           name='twitter:description'
           content="A personal portfolio website for Harsh Muriki. 
-          Comuter Science student at Georgia Tech who is passionate about Robotics in CS.
+          Computer Science student at Georgia Tech who is passionate about Robotics in CS.
         "
         />
         <meta

@@ -20,7 +20,11 @@
       "link": "https://github.com/jordantwells42/step2beat"
     }
   ],
-  "skills": ["RESTful APIs",  "Authentication (OAuth 2.0 / Next Auth)", "Async/Await/Promises"]
+  "skills": ["RESTful APIs",  "Authentication (OAuth 2.0 / Next Auth)", "Async/Await/Promises"],
+  "details1": "Leading ideation and front-end web development on a team of 4, using Node.js sub-stack to optimize app functionality and improve customer experience",
+  "details2": "Developing a food delivery service that aims to deliver restaurant food at prices lower than the current delivery services",
+  "details3": "Utilizing GIT version control for project collaboration and analysis",
+  "details4": "Selected by Georgia Tech CreateX Startup launch program, offered $400K in seed funding to launch the product"
 },
   {
   "title": "Undergraduate Robotics Research",
@@ -47,7 +51,9 @@
   "skills": ["RESTful APIs",  "Dynamic Maps / Map Tiling", "UI/UX Design"],
   "details1": "Applying Object-Oriented CV algorithms coded in python to accurately position a robot arm for an optimal position with respect to the plant",
   "details2": "Employing PyTorch and OpenCV python libraries to modify 3D point clouds to convert them to volumetric analysis",
-  "details3": "Utilizing ROS nodes to automate the data collection processes which reduced the manual workload by 50%"
+  "details3": "Utilizing ROS nodes to automate the data collection processes which reduced the manual workload by 50%",
+  "details4": "Using C++ and Python libraries to build an algorithm to enable both manual and autonomous control from onsite and remote locations"
+
 },
   {
   "title": "Campus Talk",
@@ -71,6 +77,9 @@
       "link": "https://medium.com/p/498bb488c275"
     }
   ],
-  "skills": ["RESTful APIs",  "Authentication (OAuth 2.0 / Next Auth)", "Async/Await/Promises"]
+  "skills": ["RESTful APIs",  "Authentication (OAuth 2.0 / Next Auth)", "Async/Await/Promises"],
+  "details1": "Led quality assurance process for iOS and Android mobile app platforms",
+  "details2": "Conducted competitor analysis across six companies and identified vital opportunities",
+  "details3": "Scoped new connectivity features and led a team of designers and developers to bring the product to the market"
 }
 ]

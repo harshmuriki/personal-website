@@ -17,7 +17,9 @@ export default function Projects() {
                         title={project.title}
                         className=''
                         subtitle={project.subtitle}
-                        details={project.test}
+                        details1={project.details1}
+                        details2={project.details2}
+                        details3={project.details3}
                         language={project.skills.join(' | ')}
                     />
                 ))}

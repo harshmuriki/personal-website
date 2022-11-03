@@ -1,5 +1,5 @@
 [{
-    "title": "Smart Soap Dispenser",
+    "title": "Experimental Flights",
     "subtitle": "Run to your favorite artists using Spotify",
     "desc": "Step2Beat is a web application that allows you to run to your favorite artists using Spotify. You can search for your favorite artists and create a treadmill workout with different intensities. It will then generate a playlist where each each song's BPM matches the speed you want to go at.",
     "images": ["/SB2.webp", "/SB1.webp", "/SB3.webp"],
@@ -20,10 +20,13 @@
         "link": "https://github.com/jordantwells42/step2beat"
       }
     ],
-    "skills": ["RESTful APIs",  "Authentication (OAuth 2.0 / Next Auth)", "Async/Await/Promises"]
+    "skills": ["RESTful APIs",  "Authentication (OAuth 2.0 / Next Auth)", "Async/Await/Promises"],
+    "details1": "Building an autonomous drone to transport goods within Georgia Tech Campus",
+    "details2": "Programming Arduino micro-controllers in C++ coding language to control and automate the entire delivery system",
+    "details3": "Using Object-Oriented programming to design the methods for optimal usage and functioning of the delivery system"
   },
     {
-    "title": "Undergraduate Robotics Research",
+    "title": "Smart Soap Dispenser",
     "subtitle": "Tinder, but for finding a restaurant",
     "desc": "I made this app to settle the constant question of 'Where should I eat?'. Put in where you are and what you're craving, and I'll tell you where to eat. Made with the Yelp API, it takes a query location and a query food type and elegantly displays options on a map. I have a Tinder style card interaction that allows users to swipe left to ignore a restaurant and swipe right to get directions/more info about it!",
     "images": ["/WE1.webp", "/WE2.webp", "/WE3.webp"],
@@ -45,12 +48,13 @@
       }
     ],
     "skills": ["RESTful APIs",  "Dynamic Maps / Map Tiling", "UI/UX Design"],
-    "details1": "Applying Object-Oriented CV algorithms coded in python to accurately position a robot arm for an optimal position with respect to the plant",
-    "details2": "Employing PyTorch and OpenCV python libraries to modify 3D point clouds to convert them to volumetric analysis",
-    "details3": "Utilizing ROS nodes to automate the data collection processes which reduced the manual workload by 50%"
+    "details1": "Planned and built a Smart Soap Dispenser, incorporating C++ programming language and sensors such as Infrared Receiver and ESP 32 micro-controller to control the dispenser's functionality",
+    "details2": "An IoT-based device whose rate of flow of soap and the number of times the soap dispenses can be controlled via an app",
+    "details3": ""
+
   },
     {
-    "title": "Campus Talk",
+    "title": "HaemoCarrier",
     "subtitle": "A Spotify playlist generator for the Vibes",
     "desc": "I've always been interested in how an album or movie can seemlessly transition between one mood to the next by carefully selecting the right songs. This web app uses the Spotify API to interpolate between a song of one mood to a song of another mood, using Spotify's Audio Features. The user can select the two songs they want to transition between, and add the playlist to their personal spotify library.",
     "images": ["/VB1.webp", "/VB2.webp", "/VB3.webp"],
@@ -71,6 +75,9 @@
         "link": "https://medium.com/p/498bb488c275"
       }
     ],
-    "skills": ["RESTful APIs",  "Authentication (OAuth 2.0 / Next Auth)", "Async/Await/Promises"]
+    "skills": ["RESTful APIs",  "Authentication (OAuth 2.0 / Next Auth)", "Async/Await/Promises"],
+    "details1": "Led a team of 3 peers to conceive and develop a drone that can be used to commercially transport blood from blood banks to hospitals during emergencies and challenging traffic conditions",
+    "details2": "Utilized the APM 2.8 flight controller with GPS, in configuration with Mission Planner software",
+    "details3": ""
   }
   ]

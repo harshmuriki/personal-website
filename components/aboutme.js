@@ -29,7 +29,7 @@ export default function AboutMe() {
             {/* Harsh Muriki Website */}
           </Link>
         </div>
-        <img className="w-5/6 md:w-1/3 aspect-square rounded-md border-white border-2" alt="Jordan Wells" src="/harsh.jpg" />
+        <img className="w-5/6 md:w-1/3 aspect-square rounded-md border-white border-2" alt="Harsh Muriki" src="/harsh.jpg" />
       </div>
     </Section >
   )

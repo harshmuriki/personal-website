@@ -13,7 +13,9 @@ export function ProjectCard(props) {
             img={props.img}
             alt={props.alt}
             link={'/projects/' + props.title}
-            details={props.details}
+            details1={props.details1}
+            details2={props.details2}
+            details3={props.details3}
         ></Card>
     )
 }
@@ -47,14 +49,14 @@ export function Card(props) {
                 </a>
             </Link>
             <div>
-                <h2 className='font-bold text-3xl'>{props.title}</h2>
-                <p className='mt-15 list-decimal'>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-
+                <h2 className='font-bold text-3xl pb-3'>{props.title}</h2>
+                <p className='mt-15 list-decimal text-lg'>
+                    <li className='pb-5'>{props.details1}</li>
+                    <li className='pb-5'>{props.details2}</li>
+                    <li className='pb-5'>{props.details3}</li>
                 </p>
             </div>
         </div>
     )
 }
+
